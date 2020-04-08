@@ -1,0 +1,203 @@
+# depslib dependency file v1.0
+1579621902 source:c:\users\sampay\documents\exercice c l1irt\fichiers\calculatrice_true\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"managment.h"
+
+1579553371 .h"
+
+1571948101 source:c:\users\sampay\documents\exercice c l1irt\fichiers\calculatrice_true\managment_bracket.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1578352581 
+
+1579550801 c:\users\sampay\documents\exercice c l1irt\fichiers\calculatrice_true\managment.h
+
+1557208897 source:c:\users\sampay\documents\exercice c l1irt\fichiers\calculatrice_true\alphabet.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1579621829 source:c:\users\sampay\documents\exercice c l1irt\fichiers\calculatrice_true\order_operation.c
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1578352581 source:c:\users\sampay\documents\exercice c l1irt\fichiers\calculatrice_true\computation.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1579621346 source:c:\users\sampay\documents\exercice c l1irt\fichiers\calculatrice_true\order_run.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1557208897 source:/media/sampay/3A6613D266138DAF/Users/SAMPAY/Documents/EXERCICE C L1IRT/fichiers/calculatrice_true/alphabet.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1578352581 source:/media/sampay/3A6613D266138DAF/Users/SAMPAY/Documents/EXERCICE C L1IRT/fichiers/calculatrice_true/computation.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1571948101 source:/media/sampay/3A6613D266138DAF/Users/SAMPAY/Documents/EXERCICE C L1IRT/fichiers/calculatrice_true/managment_bracket.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1579552809 source:/media/sampay/3A6613D266138DAF/Users/SAMPAY/Documents/EXERCICE C L1IRT/fichiers/calculatrice_true/order_operation.c
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1557212497 source:c:\users\sampay2.0\documents\exercice c l1irt\fichiers\calculatrice_true\alphabet.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1578356181 source:c:\users\sampay2.0\documents\exercice c l1irt\fichiers\calculatrice_true\computation.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1579625502 source:c:\users\sampay2.0\documents\exercice c l1irt\fichiers\calculatrice_true\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"managment.h"
+
+1579554401 c:\users\sampay2.0\documents\exercice c l1irt\fichiers\calculatrice_true\managment.h
+
+1571951701 source:c:\users\sampay2.0\documents\exercice c l1irt\fichiers\calculatrice_true\managment_bracket.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1579625429 source:c:\users\sampay2.0\documents\exercice c l1irt\fichiers\calculatrice_true\order_operation.c
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1579624946 source:c:\users\sampay2.0\documents\exercice c l1irt\fichiers\calculatrice_true\order_run.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1557212497 source:c:\users\sampay2.0\documents\calculatrice_true\alphabet.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1586139519 source:c:\users\sampay2.0\documents\calculatrice_true\computation.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1586161551 source:c:\users\sampay2.0\documents\calculatrice_true\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"managment.h"
+	<math.h>
+
+1585959272 c:\users\sampay2.0\documents\calculatrice_true\managment.h
+
+1571951701 source:c:\users\sampay2.0\documents\calculatrice_true\managment_bracket.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1586122827 source:c:\users\sampay2.0\documents\calculatrice_true\order_run.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1586159235 source:c:\users\sampay2.0\documents\calculatrice_true\order_operation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1586270332 source:c:\users\sampay2.0\documents\final_calculator\interface\calculatrice_true\alphabet.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1586139519 source:c:\users\sampay2.0\documents\final_calculator\interface\calculatrice_true\computation.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1586271339 source:c:\users\sampay2.0\documents\final_calculator\interface\calculatrice_true\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"managment.h"
+	<math.h>
+	<conio.h>
+
+1586265241 c:\users\sampay2.0\documents\final_calculator\interface\calculatrice_true\managment.h
+
+1586270955 source:c:\users\sampay2.0\documents\final_calculator\interface\calculatrice_true\managment_bracket.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1586159235 source:c:\users\sampay2.0\documents\final_calculator\interface\calculatrice_true\order_operation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1586282890 source:c:\users\sampay2.0\documents\final_calculator\interface\calculatrice_true\order_run.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1586287692 source:c:\users\sampay2.0\documents\final_calculator\interface\calculatrice\alphabet.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1586139519 source:c:\users\sampay2.0\documents\final_calculator\interface\calculatrice\computation.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1586286424 source:c:\users\sampay2.0\documents\final_calculator\interface\calculatrice\managment_bracket.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1586324402 source:c:\users\sampay2.0\documents\final_calculator\interface\calculatrice\order_operation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<windows.h>
+
+1586332048 source:c:\users\sampay2.0\documents\final_calculator\interface\calculatrice\order_run.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1586327980 source:c:\users\sampay2.0\documents\final_calculator\interface\calculatrice\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"managment.h"
+	<math.h>
+	<conio.h>
+
+1586331261 c:\users\sampay2.0\documents\final_calculator\interface\calculatrice\managment.h
+
