@@ -9,5 +9,5 @@ multiplication : *
 puissance : ^
 
 la gestion des parentheses n'est pas encore possible lors du  calcul
-Pour eteindre : off
+, Pour eteindre : off
 
